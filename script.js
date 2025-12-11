@@ -305,8 +305,8 @@ window.addEventListener('load', () => {
 // ============================================
 // Console Message
 // ============================================
-console.log('%c🚀 Lucas Ferreira - Infoprodutor & Mentor Digital', 'color: #7c3aed; font-size: 20px; font-weight: bold;');
-console.log('%cDesenvolvido com dedicação para transformar negócios digitais', 'color: #2563eb; font-size: 14px;');
+console.log('%c🚀 Destrave as oportunidades da vida com Inglês na Vox Alumni', 'color: #7c3aed; font-size: 20px; font-weight: bold;');
+console.log('%cAprenda com quem já mentorou mais de 1.500 alunos e a destravar o ingles completamente', 'color: #2563eb; font-size: 14px;');
 
 // ============================================
 // Performance Optimization - Debounce Function
